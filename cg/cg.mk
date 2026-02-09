@@ -1,0 +1,2 @@
+BUILD_ROOT=D:/zInstall/plecs/PLECS C2000 TSP/tsp_ti_c2000/demos/buck_converter_boostxl/buck_converter_boostxl_codegen
+BASE_NAME=Controller

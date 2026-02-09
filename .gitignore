@@ -1,0 +1,43 @@
+# Build outputs
+user/build/
+*.out
+*.map
+*.obj
+*.dep
+*.d
+
+# Generated files
+*.hex
+*.bin
+*.xml
+*.tmp
+
+# CCS/Eclipse
+RemoteSystemsTempFiles/
+*.log
+.metadata/
+.settings/
+Debug/
+Release/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+*~
+*.swp
+
+# Plexim generated
+Controller_ert_rtw/
+
+.xmake/
